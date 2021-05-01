@@ -1,15 +1,28 @@
-## Hello World! I'm King - aka King-Night-cyber
+## Hello World! I'm King - aka King-Night-cyber <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About Me:
 ### I'm a Developer!
 - 💻 Currently working on my biggest project: [King](https://github.com/King-Night-cyber/King-Programming-Language "King programming Language")!
 
-### Goals:
+### 🎯 Goals:
 * Finish my current project and make many more!
 * Contribute more to the GitHub Community!
 
-### Languages:
-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5
-* <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS
-- <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
-* <img align="left" alt="CSHARP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> C#
+### 🔧 Technologies & Tools I use:
+![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+### 📈 Stats:
+<a href="https://github.com/King-Night-cyber/King-Night-cyber">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Night-cyber&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/King-Night-cyber/King-Night-cyber">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=King-Night-cyber&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="King-Night-cyber GitHub Stats" />
+</a>
+
+## More on King:
+
+<a href="https://github.com/King-Night-cyber/King-Programming-Language">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=King-Programming-Language&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
