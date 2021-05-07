@@ -25,10 +25,10 @@
 
 ## More on my other repos:
 
-<a href="https://github.com/King-Night-cyber/White-Mamba">
+<a href="https://github.com/King-Night-cyber/King-Programming-Language">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=King-Programming-Language&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/King-Night-cyber/King-Programming-Language">
+<a href="https://github.com/King-Night-cyber/White-Mamba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=White-Mamba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
