@@ -2,10 +2,10 @@
 
 ## About Me:
 ### I'm a Developer!
-- 💻 Currently working on my biggest project: [King](https://github.com/King-Night-cyber/King-Programming-Language "King programming Language")!
+- 💻 Currently working on my biggest projects: [King](https://github.com/King-Night-cyber/King-Programming-Language "King programming Language") and [White Mamba](https://github.com/King-Night-cyber/White-Mamba "White Mamba")!
 
 ### 🎯 Goals:
-* Finish my current project and make many more!
+* Finish my current projects and make many more!
 * Contribute more to the GitHub Community!
 
 ### 🔧 Technologies & Tools I use/know:
@@ -23,8 +23,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=King-Night-cyber&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="King-Night-cyber GitHub Stats" />
 </a>
 
-## More on King:
+## More on my other repos:
 
 <a href="https://github.com/King-Night-cyber/King-Programming-Language">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=King-Programming-Language&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/King-Night-cyber/King-Programming-Language">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=White-Mamba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
