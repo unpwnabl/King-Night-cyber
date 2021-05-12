@@ -2,7 +2,7 @@
 
 ## About Me:
 ### I'm a Developer!
-- 💻 Currently working on my biggest projects: [King](https://github.com/King-Night-cyber/King-Programming-Language "King programming Language") and [White Mamba](https://github.com/King-Night-cyber/White-Mamba "White Mamba")!
+- 💻 Currently working on my biggest projects: [King](https://github.com/King-Night-cyber/King-Programming-Language "King programming Language") and [White Mamba](https://github.com/King-Night-cyber/White-Mamba "White Mamba") (there's even a Termux version at [Termux White Mamba](https://github.com/King-Night-cyber/Termux-White-Mamba))!
 
 ### 🎯 Goals:
 * Finish my current projects and make many more!
