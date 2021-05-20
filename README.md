@@ -2,7 +2,7 @@
 
 ## About Me:
 ### I'm a Developer!
-- 💻 Currently working on my biggest projects: [King](https://github.com/King-Night-cyber/King-Programming-Language "King programming Language") and [White Mamba](https://github.com/King-Night-cyber/White-Mamba "White Mamba") (there's even a Termux version at [Termux White Mamba](https://github.com/King-Night-cyber/Termux-White-Mamba))!
+- 💻 Currently working on my biggest projects: [King](https://github.com/King-Night-cyber/King "King programming Language") and [White Mamba](https://github.com/King-Night-cyber/White-Mamba "White Mamba") (there's even a Termux version at [Termux White Mamba](https://github.com/King-Night-cyber/Termux-White-Mamba))!
 
 ### 🎯 Goals:
 * Finish my current projects and make many more!
@@ -25,8 +25,8 @@
 
 ## More on my other repos:
 
-<a href="https://github.com/King-Night-cyber/King-Programming-Language">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=King-Programming-Language&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/King-Night-cyber/King">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=King&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <a href="https://github.com/King-Night-cyber/White-Mamba">
