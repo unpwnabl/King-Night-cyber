@@ -2,7 +2,7 @@
 
 ## About Me:
 ### I'm a Developer!
-- 💻 Currently working on my biggest projects: [King](https://github.com/King-Night-cyber/King "King programming Language") and [King Text Editor](https://github.com/King-Night-cyber/King-Text-Editor "King Text Editor")!
+- 💻 Currently working on my biggest projects: [King](https://github.com/King-Night-cyber/King "King programming Language") and [KingOS](https://github.com/King-Night-cyber/KingOS "KingOS")!
 
 ### 🎯 Goals:
 * Finish my current projects and make many more!
@@ -10,7 +10,7 @@
 
 ### 🔧 Technologies & Tools I use/know:
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-SublimeText3-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-LiteXL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-P5.js-informational?style=flat&color=2bbc8a)
@@ -29,6 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=King&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/King-Night-cyber/King-Text-Editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=King-Text-Editor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/King-Night-cyber/KingOS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=King-Night-cyber&repo=KingOS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
