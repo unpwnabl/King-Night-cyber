@@ -9,10 +9,12 @@
 * Contribute more to the GitHub Community!
 
 ### 🔧 Technologies & Tools I use/know:
-![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-LiteXL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-P5.js-informational?style=flat&color=2bbc8a)
 
 ### 📈 Stats:
