@@ -9,8 +9,8 @@
 * Contribute more to the GitHub Community!
 
 ### 🔧 Technologies & Tools I use/know:
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-KaliLinux-informational?style=flat&logo=kalilinux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
