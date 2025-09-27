@@ -15,3 +15,7 @@ I'm a IT student and programmer part-time, aspiring hacker. I make projects and 
 
 ### Stats:
 ![Unpwnable's GitHub stats](https://github-readme-stats.vercel.app/api?username=unpwnabl&theme=github_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unpwnabl&layout=compact&theme=github_dark)](https://github.com/unpwnabl/github-readme-stats)
+
+### Some of my projects:
+[![TODO.sh](https://github-readme-stats.vercel.app/api/pin/?username=unpwnabl&repo=TODO.sh&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
